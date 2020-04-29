@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "firmaselectronicas-c9d74",
+  "private_key_id": "18923264d5989f16a5922a7b87fd69ae0ef33b94",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC19Ut6GvWxp8dx\nryIdp9pmPe56EHHwMtm+AH3O4tG3Ymh16nvog0qu1s60qobMLqrDIxMSSJHjNX74\ny3/M72ntvfwXKvk0zBZGHp671Vx4mpyUeHPUEfbGJrySMkubGQqFvgd6CXmhraRq\noMfCQ9XlSx53e2xGE/BDUfA8PrfB6Jn7lnpDVoizxR9NkatJM2DmwFVzYxUt/Upi\nXvujct4jZE5vtakQC0qQPoLx2BNHeyDgQv2s68X2fuiH0hl0W6IWXYm6jhoo/y2/\nksCPd3oZ/eFeOzSJohSx8s0hXP4Hj9uqiqML7nBpHSBefAhp6FLBUW9LbLqG4LWa\nZeLfJTCbAgMBAAECgf94Hna1JRcNMLV5VyQub6C93iSQcErHRsp3o9tpuFK5vT04\nmpMx63ph8WyD2A8ku6n/KChu6XllhOtNUwoLQAGt8L16jeP19sS9hXlEhpWFCIxV\ndy7/0NwX83qJCKrguKc5ozlMVvT0xqzDt2An3qBVvkFenxvbJ051IqJ1IvIsD0Qw\nShUcgctPVqGMc+q0jkWwW34kDvTPKfFSCI+o3HCRw6Zwzp1FBsYQUeSL2kFJBtQ4\nv+EysOGVBOcvbdzpj2D3mN2l2HcpQcIjjtFWMqzWUnwSqnWaQV2GvctHOjoVheo+\nE63+n/rignIa3Ji/kCQSScl4MIOuBphIan5XfekCgYEA5Dw3qndmyFW3Uwdf7Jxs\nBJUnUSt2we36dPT/O0qsTFdN/iXyM+0rekC+BR70LxYPlXleJM7OwH+fKHR8ai05\nGeHFNOiz/RJqt2qGqLQGgzf3mrtfifZ48RPZTu6Fp0WCHGd4yLsv15lqXPOKxzGB\n0BtbAbNbF/dXVKThLl4wADcCgYEAzBfmu39Nz8rrDBEMr0mZ821s0AXzwIP+qkeK\nWEqAvRL5MzJZVrliBTEQdnPYEvFfQM0GBOBHUMpWrxpnygbfcK9Uayupd/cwm5o/\nqW/eAvKw9cDtCZmm6mLcanoA/OnRKCNFeUKmZg0QLgmHq9i5/eZy2wavMqn8FkRF\nbCkfOL0CgYAQrYnPzhvXpdPYoGBVFPUbvJ574vYxo6c6prCD76f5iCOt3638N2eG\n7nY0P5fOXQlUfeLwQ6B+FpVVynVQ+O8EQig7/okwhAkCUCl46HbVXeCdEPYhSb56\nt12Y0/s2RvEEDFeaK3uKgK5yDmXkumxm/ai/zhBpBuz9xXKjBcTyLwKBgAimsrcb\n7FZ0iYYXauw7OHVjHAutVOnCLpdVNP4NGmvpU/rhlXvhm9AQhlwfCPe0l48NocWv\nJBa+nPILMn8Tz4DdTbzFOwfEyKCv5ybtgQGq++lO5j1T8Alba3Bv/365Ao6rABTl\nyFvnDdqFuOSF6Uxj6lZycBa7sd3XwwGUtKgZAoGBANMo7JWz/Y0e0+hpLADDnSL9\nVHNwZdzWkya+3z0o+ZUdVsJaUBphsM/T7ZVimcoV5NyHE77AB3QIuLDsc71N482x\nFJZPKpc2BYtA8rUrTzZeSJS4iBvSZuB1pjQP5MBgSKvgpdgEz8v658XmJ0Jl5doR\ndZkw+WFDVFUw1RxVD+Q1\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6fn1m@firmaselectronicas-c9d74.iam.gserviceaccount.com",
+  "client_id": "108561857812030946408",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6fn1m%40firmaselectronicas-c9d74.iam.gserviceaccount.com"
+}
