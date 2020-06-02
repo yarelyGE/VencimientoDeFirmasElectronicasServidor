@@ -20,7 +20,6 @@ firebaseCtrl.getData = async (req, res, next) => {
                 // id: doc.id,
                 data: doc.data()
             });
-
         });
     })
     .catch((err) => {

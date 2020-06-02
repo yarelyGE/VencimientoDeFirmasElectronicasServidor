@@ -4,8 +4,8 @@ const firebase = require('./firebase');
 
 clientCtrl.getClients = async (req, res, next) => {  };
 
-lanzarSiempreALaHora(12, 30);
-
+//lanzarSiempreALaHora(12, 30);
+tarea();
 function lanzarSiempreALaHora(horas, minutos) {
 
     var ahora = new Date();
@@ -25,7 +25,6 @@ function lanzarSiempreALaHora(horas, minutos) {
     }, momento.getTime()-ahora.getTime());
 
 }
-
 function tarea() {
     firebase.getData();
 }
